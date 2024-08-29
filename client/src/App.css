@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 60%;
+  background-color: white !important;
+  margin: 10px auto 10px auto !important ;
+  /* box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.01) !important; */
+  border: 1px solid rgba(0, 0, 0, 0.2) !important;
+  height: 100vh !important;
+}
+
+.ql-toolbar.ql-snow {
+  margin: 50px auto 0 auto;
+  display: flex;
+  justify-content: center;
+  border: 0.001px #edf2fa !important;
+  border-radius: 20px;
+  background-color: #edf2fa;
+  width: 98%;
+}
+
+.ql-editor {
+  line-height: normal !important;
+  letter-spacing: normal !important;
+  word-spacing: normal !important;
+  white-space: normal !important;
+  text-align: left !important;
+}
